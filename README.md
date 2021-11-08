@@ -1,7 +1,15 @@
-### Hi there 👋
+### Heya 👋
+
+<a href="https://github.com/ap-1/ommc-re">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ap-1&repo=ommc-re&theme=dracula" />
+</a>
+<a href="https://github.com/ap-1/hths-magazine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ap-1&repo=hths-magazine&theme=dracula" />
+</a>
 
 <!--
 **ap-1/ap-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ap-1&show_icons=true&layout=compact&theme=dracula" />
 
 Here are some ideas to get you started:
 
