@@ -56,7 +56,11 @@
   <a href="https://www.codecademy.com/profiles/anishpallati">
     <img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-anishpallati-informational?style=for-the-badge&logo=codecademy&color=1F4056&logoColor=1F4056" />
   </a>
+  <a href="https://anilist.co/cerulean001">
+    <img alt="Anilist" src="https://img.shields.io/badge/Anilist-cerulean001-informational?style=for-the-badge&logo=anilist&color=02A9FF" />
+  </a>
   <a href="https://leetcode.com/pallatianish">
     <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-pallatianish-informational?style=for-the-badge&logo=leetcode&color=FFA116&logoColor=FFA116" />
   </a>
+
 </div>
