@@ -50,9 +50,6 @@
   <a href="https://www.linkedin.com/in/anish-pallati">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anish%E2%80%93pallati-informational?style=for-the-badge&logo=linkedin&color=0A66C2&logoColor=0A66C2" />
   </a>
-  <a href="https://www.instagram.com/anish_pallati">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-anish_pallati-informational?style=for-the-badge&logo=instagram&color=E4405F" />
-  </a>
   <a href="https://www.codecademy.com/profiles/anishpallati">
     <img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-anishpallati-informational?style=for-the-badge&logo=codecademy&color=1F4056&logoColor=1F4056" />
   </a>
