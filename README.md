@@ -19,8 +19,8 @@
   <a href="https://archlinux.org">
     <img alt="Arch Linux" src="https://img.shields.io/badge/OS-Arch Linux-informational?style=for-the-badge&logo=arch%20linux&color=1793D1" />
   </a>
-  <a href="https://fishshell.com">
-    <img alt="Fish Shell" src="https://img.shields.io/badge/Shell-Fish-informational?style=for-the-badge&logo=gnu bash&color=4aae47&logoColor=4aae47" />
+  <a href="https://ohmyz.sh">
+    <img alt="ZSH Shell" src="https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu bash&color=4aae47&logoColor=4aae47" />
   </a>
   <a href="https://alacritty.org">
     <img alt="Alacritty Terminal Emulator" src="https://img.shields.io/badge/Terminal%20Emulator-Alacritty-informational?style=for-the-badge&logo=alacritty&color=F46D01" />
@@ -56,8 +56,4 @@
   <a href="https://anilist.co/user/cerulean001">
     <img alt="Anilist" src="https://img.shields.io/badge/Anilist-cerulean001-informational?style=for-the-badge&logo=anilist&color=02A9FF" />
   </a>
-  <a href="https://leetcode.com/pallatianish">
-    <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-pallatianish-informational?style=for-the-badge&logo=leetcode&color=FFA116&logoColor=FFA116" />
-  </a>
-
 </div>
