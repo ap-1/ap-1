@@ -1,4 +1,4 @@
-## Heya 👋 
+## Hi 👋 
 
 ### 📝 Stats 
 <a href="#">
@@ -8,13 +8,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap-1&langs_count=3&theme=dark" />
 </a>
 
-### 🧍 My Stuff
+### Stuff
 
 | <h4>⭐ Favorites</h4> | <h4>📚 Skills</h4> | <h4>🌱 Learning</h4> |
 |         :----:        |       :----:      |        :----:       |
 | <div><a href="https://kit.svelte.dev"><img alt="SvelteKit" src="https://img.shields.io/badge/Framework-SvelteKit-informational?style=for-the-badge&logo=svelte&color=FF3E00" /></a><a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Platform-Vercel-informational?style=for-the-badge&logo=Vercel&color=ffffff" /></a><a href="https://www.rust-lang.org"><img alt="Rust" src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logo=rust&color=f74b00&logoColor=f74b00" /></a></div> | <div><a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&color=3178C6" /></a><a href="https://www.lua.org"><img alt="Lua" src="https://img.shields.io/badge/Language-Lua-informational?style=for-the-badge&logo=lua&color=2C2D72&logoColor=2C2D72" /></a><a href="https://firebase.google.com"><img alt="Firebase" src="https://img.shields.io/badge/Technology-Firebase-informational?style=for-the-badge&logo=firebase&color=FFCA28" /></a></div> | <div><a href="https://www.rust-lang.org"><img alt="Rust" src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logo=rust&color=f74b00&logoColor=f74b00" /></a><a href="https://cplusplus.com"><img alt="C++" src="https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&logo=cplusplus&color=00599C&logoColor=00599C" /></a><a href="https://jamstack.org"><img alt="Jamstack" src="https://img.shields.io/badge/Architecture-Jamstack-informational?style=for-the-badge&logo=jamstack&color=F0047F&logoColor=F0047F" /></a></div> |
 
-#### 💻 System
+#### System
 <div>
   <a href="https://archlinux.org">
     <img alt="Arch Linux" src="https://img.shields.io/badge/OS-Arch Linux-informational?style=for-the-badge&logo=arch%20linux&color=1793D1" />
@@ -42,7 +42,7 @@
   </a>
 </div>
 
-#### 📱 Social
+#### Profiles
 <div>
   <a href="https://devpost.com/anishpallati">
     <img alt="Devpost" src="https://img.shields.io/badge/Devpost-anishpallati-informational?style=for-the-badge&logo=devpost&color=003E54&logoColor=003E54" />
@@ -52,8 +52,5 @@
   </a>
   <a href="https://www.codecademy.com/profiles/anishpallati">
     <img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-anishpallati-informational?style=for-the-badge&logo=codecademy&color=1F4056&logoColor=1F4056" />
-  </a>
-  <a href="https://anilist.co/user/cerulean001">
-    <img alt="Anilist" src="https://img.shields.io/badge/Anilist-cerulean001-informational?style=for-the-badge&logo=anilist&color=02A9FF" />
   </a>
 </div>
