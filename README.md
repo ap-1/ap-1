@@ -1,9 +1,5 @@
 ## Hi 👋 
 
-| <h4>⭐ Favorites</h4> | <h4>📚 Skills</h4> | <h4>🌱 Learning</h4> |
-|         :----:        |       :----:      |        :----:       |
-| <div><a href="https://kit.svelte.dev"><img alt="SvelteKit" src="https://img.shields.io/badge/Framework-SvelteKit-informational?style=for-the-badge&logo=svelte&color=FF3E00" /></a><a href="https://www.rust-lang.org"><img alt="Rust" src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logo=rust&color=f74b00&logoColor=f74b00" /></a></div> | <div><a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/Language-TypeScript-informational?style=for-the-badge&logo=typescript&color=3178C6" /></a><a href="https://www.lua.org"><img alt="Lua" src="https://img.shields.io/badge/Language-Lua-informational?style=for-the-badge&logo=lua&color=2C2D72&logoColor=2C2D72" /></a></div> | <div><a href="https://www.rust-lang.org"><img alt="Rust" src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logo=rust&color=f74b00&logoColor=f74b00" /></a><a href="https://jamstack.org"><img alt="Jamstack" src="https://img.shields.io/badge/Architecture-Jamstack-informational?style=for-the-badge&logo=jamstack&color=F0047F&logoColor=F0047F" /></a></div> |
-
 ####  Stats 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ap-1&count_private=true&show_icons=true&theme=dark&line_height=27" />
@@ -11,6 +7,16 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ap-1&langs_count=3&theme=dark" />
 </a>
+
+#### Favorites
+<div>
+  <a href="https://kit.svelte.dev">
+    <img alt="SvelteKit" src="https://img.shields.io/badge/Framework-SvelteKit-informational?style=for-the-badge&logo=svelte&color=FF3E00" />
+  </a>
+  <a href="https://www.rust-lang.org">
+    <img alt="Rust" src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logo=rust&color=f74b00&logoColor=f74b00" />
+  </a>
+</div>
 
 #### Profiles
 <div>
