@@ -6,7 +6,7 @@
       <img alt="LinkedIn" width="50" src="./logos/linkedin-dark.svg" />
     </picture>
   </a>
-  <a href="https://twitter.com/anishpallati" style="margin: 1rem;">
+  <a href="https://twitter.com/anishpallati" style="margin: 2rem;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ap-1/ap-1/main/logos/twitter-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ap-1/ap-1/main/logos/twitter-light.svg" />
