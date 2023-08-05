@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/anish-pallati/">
-    <picture width="50" height="50" >
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ap-1/ap-1/main/logos/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ap-1/ap-1/main/logos/linkedin-light.svg" />
       <img alt="LinkedIn" src="./logos/linkedin-dark.svg" />
